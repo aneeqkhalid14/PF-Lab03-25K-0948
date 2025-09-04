@@ -8,4 +8,4 @@ We are studying Github
 <br/>
 My name is **Aneeq Khalid**
 <br/>
-_this is how you write in ita
+_this is how you write in italic_
