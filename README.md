@@ -2,5 +2,6 @@
 ## heading 2
 ### heading 3
 
-This is lab 03 Section G
+This is lab 03 Section G 
+<br/>
 We are studying Github
