@@ -12,5 +12,6 @@ _this is how you write in italic_
 <br/>
 - unordered list 1
 - underordered list 2
+<br/>
 1. ordered list 1
 2. ordered list 2
