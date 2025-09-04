@@ -9,5 +9,5 @@ We are studying Github
 My name is **Aneeq Khalid**
 <br/>
 _this is how you write in italic_
-- 1. unordered list
-- 2. unordered list2
+1. unordered list
+2. unordered list2
